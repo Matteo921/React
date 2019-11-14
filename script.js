@@ -14,19 +14,19 @@ var movies = [
     title: 'Król Lew',
     desc: 'Film o królu sawanny',
     img: 'Krollew.jpg'
-  }
+  },
     {
     id: 3,
     title: 'Social Network',
     desc: 'Film o wlaścicielu facebooka',
     img: 'social.jpg'
-  }
+  },
     {
     id: 4,
     title: 'Snowden',
     desc: 'Film o historii byłego pracownika służb państwowych który ujawnia prasie ściśle tajne dokumenty doprowadzając jednocześnie do największego wycieku zastrzeżonych informacji w historii USA. ',
     img: 'snowden.jpg'
-  }
+  },
     {
     id: 5,
     title: 'Black mirror',
